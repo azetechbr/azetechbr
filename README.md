@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Azevedo 👋
 
-[![Site](https://img.shields.io/website?label=WeboTech.com&style=for-the-badge&url=https://webotech.com.br)](https://webotech.com.br)
+[![Site](https://img.shields.io/website?label=WeboTech.com&style=for-the-badge&url=https://webotech.xyz)](https://webotech.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosazevedo_?igsh=bjB3a2R3bHdtNDMx)
 
 
